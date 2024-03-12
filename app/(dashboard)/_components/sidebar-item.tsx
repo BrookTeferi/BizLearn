@@ -17,6 +17,8 @@ export const SidebarItem = ({
 
     const pathname= usePathname();
 
+    
+
 return (
     <div>
         sidebarItem!
